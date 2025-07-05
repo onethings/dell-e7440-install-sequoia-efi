@@ -1,0 +1,3 @@
+I followed Tech Sudama English tutorial to install sequoia on my dell e7440. After successful installation, the display card showed hd 4400 7mb, and the wifi card did not work. Slowly solve it...
+</br>
+https://www.youtube.com/watch?v=zQynfeJLRYY
