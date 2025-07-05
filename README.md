@@ -3,6 +3,7 @@ I followed Tech Sudama English tutorial to install sequoia on my dell e7440. Aft
 <br/>Prepare lan cable connect to laptop
 <br/>Download OpenCore Legacy Patcher and Post-install Root Pacth. Will reolve HD4400 graphfic and wifi problem.
 <br/>On Bios, enable legacy option ROMs at advanced Boot Option will solve login screes can't read problem.
+<br/>
 <br/>Thank you.
 
 <br/>Tech Sudama English (generate EFI step)
