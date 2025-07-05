@@ -10,6 +10,11 @@ I followed Tech Sudama English tutorial to install sequoia on my dell e7440. Aft
 <br/>![enable legacy option roms](https://github.com/onethings/dell-e7440-install-sequoia-efi/blob/master/enable%20legacy%20option.jpg)
 <br/>On Bios, enable legacy option ROMs at advanced Boot Option will solve login screes can't read problem.
 <br/>
+<br/>
+<br/>No Sound, not fix yet.
+<br/>![nosund](https://github.com/onethings/dell-e7440-install-sequoia-efi/blob/master/no-sound.png)
+
+<br/><br/>
 <br/>Thank you.
 
 <br/>Tech Sudama English (generate EFI step)
