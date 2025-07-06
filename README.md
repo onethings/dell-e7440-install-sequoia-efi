@@ -11,8 +11,6 @@ I followed Tech Sudama English tutorial to install sequoia on my dell e7440. Aft
 <br/>On Bios, enable legacy option ROMs at advanced Boot Option will solve login screes can't read problem.
 <br/>
 <br/>
-<br/>Sound Card Model are Realtek ALC292(in bigsur alcid=12), No Sound, not fix yet.
-<br/>![nosund](https://github.com/onethings/dell-e7440-install-sequoia-efi/blob/master/no-sound.png)
 
 <br/><br/>
 <br/>Thank you.
